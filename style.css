@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+   /* background: linear-gradient(#ffd208,rgb(226, 104, 22),rgb(219, 156, 18)
+    ); */
+
+}
+.heading{
+    text-shadow: 2px 1px 2px rgb(92, 83, 34);
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px;
+}
+.a{
+    margin: 40px;
+    font-size: 60px;
+    text-shadow:3px 2px 4px rgb(4, 22, 5);
+    color: rgb(57, 155, 18);
+    display: inline-block;
+}
+.b{
+    color: rgb(89, 0, 255);
+}
+.a:hover{
+    transition: all ease-in-out .5s;
+    color: brown;
+}
+.b:hover{
+    transition: all ease-in-out .5s;
+    color: brown;
+}
+.c{
+    color: rgb(231, 80, 163);
+}
+.c:hover{
+    transition: all ease-in-out .5s;
+    color: brown;
+}
+.d{
+    color: rgb(255, 126, 5);
+}
+.d:hover{
+    transition: all ease-in-out .5s;
+    color: brown;
+}
+.button{
+    text-align: center;
+    padding: 15px;
+   width: 150px;
+    color: rgb(84, 85, 97);
+    background-color: rgb(250, 250, 250);
+    box-shadow: currentColor;
+ 
+}
